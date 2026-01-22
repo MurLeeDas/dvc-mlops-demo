@@ -1,14 +1,10 @@
-<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
 .dvc/tmp/
 .dvc/cache/
-=======
 /ecommerce_reviews.csv
-<<<<<<< HEAD
->>>>>>> c51927d (Track customer reviews dataset with DVC)
-=======
 .venv/
->>>>>>> 33a6979 (DVC hands-on demo)
+.dvc/
+.dvcignore
