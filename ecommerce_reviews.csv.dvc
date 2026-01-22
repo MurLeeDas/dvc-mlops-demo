@@ -1,0 +1,5 @@
+outs:
+- md5: 99b5574b4fffdbcf1fd2a2ca6a06bc4c
+  size: 834043007
+  hash: md5
+  path: ecommerce_reviews.csv

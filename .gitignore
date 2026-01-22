@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.pyc
 .DS_Store
 .dvc/tmp/
 .dvc/cache/
+=======
+/ecommerce_reviews.csv
+>>>>>>> c51927d (Track customer reviews dataset with DVC)
